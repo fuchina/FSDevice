@@ -1,0 +1,16 @@
+PODS:
+  - FSDevice (0.0.1)
+
+DEPENDENCIES:
+  - FSDevice (from `../`)
+
+EXTERNAL SOURCES:
+  FSDevice:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FSDevice: 3796bf8171c77645fbdc6b64e157629272fd8950
+
+PODFILE CHECKSUM: 1896b8c1701bcde4bbca791cdb5665da3050e57e
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,24 @@
+{
+  "name": "FSDevice",
+  "version": "0.0.1",
+  "summary": "FSDevice,show some infomations of app state",
+  "homepage": "https://github.com/fuchina/FSDevice",
+  "description": "获取app的一些运行状态",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fudongdong": "1245102331@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/fuchina/FSDevice.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "FSDevice/Classes/*",
+  "requires_arc": true,
+  "frameworks": "UIKit"
+}
